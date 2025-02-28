@@ -1,0 +1,98 @@
+<!---- 
+
+main accent (lines, border, bar, bookmark deco): #7e543a
+text: #211d1d
+text boxes, polaroid frames, credit, duct tape deco: #f2f1f0
+card background: #dbd8d5
+
+---->
+<div class="mx-auto" style="font-family:garamond; letter-spacing:0.4px; color:#211d1d; max-width:800px;">
+    <!----credit---->
+    <div class="text-right mb-n3 mr-3">
+        <span class="fa-stack fa-2x">
+            <i class="fas fa-bookmark fa-stack-2x fa-flip-vertical" style="color:#7e543a;"></i>
+            <a href="https://toyhou.se/30952709.f2u-album"><i class="fal fa-code fa-stack-1x" style="font-size:14px; color:#f2f1f0"></i></a>
+        </span>
+    </div>
+    <div class="row no-gutters">
+        <!----left bar---->
+        <div class="col-md-1 col-1 col-lg-1">
+            <div class="card rounded-0 h-100 text-center mr-1" style="border-width: 0px 4px 0px 0px; border-color:#7e543a">
+                <div class="card rounded-0 border-0 h-100 mr-1" style="background-color:#7e543a; border-top-left-radius:10px; border-bottom-left-radius:10px"></div>
+            </div>
+        </div>
+        <!----card---->
+        <div class="col-md-11 col-11 col-lg-11">
+            <div class="card rounded-0 border-0 p-1" style="background-color:#dbd8d5">
+               <div class="card rounded-0 p-2 bg-faded" style="border-style:dashed; border-color:#7e543a; background-color:#dbd8d5">
+                   <div class="row no-gutters">
+                       <div class="col-lg-3 p-1 m-auto">
+                           <!----icon---->
+                           <div class="p-0 card rounded-0 mb-1 mx-auto" style="background:url(https://file.toyhou.se/images/7745356_UbxFaTbtSE8Egg6.png); background-position:center; background-size:cover; height:170px; max-width:170px; background-color:#7e543a; border-width:10px 10px 30px 10px; border-color:#f2f1f0"></div>
+                           <!----flower---->
+                           <div style="background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/93660417_E4S58H2cIhI3PmL.png); background-size:cover; background-position:center; height:128px; width:71px; position:absolute; left:-8px; top:65px; transform:rotate(-20deg)"></div>
+                           <!----duct tape---->
+                           <div class="p-2" style="background-color:#f2f1f0; width:60px; position:absolute; left:29px; top:160px; opacity:0.7; transform:rotate(-20deg)"></div>
+                           <!----basics---->
+                           <div style="font-size:18px;"><span class="font-weight-bold mx-1" style="font-size:20px"><I>name</I></span></div>
+                           <hr class="my-0 mb-1 w-100" style="border-width:1px; border-color:#7e543a">
+                           <div style="font-size:18px"><span class="font-weight-bold mx-1" style="font-size:20px"><I>age:</I></span>content</div>
+                           <hr class="my-0 mb-1 w-100" style="border-width:1px; border-color:#7e543a">
+                           <div style="font-size:18px"><span class="font-weight-bold mx-1" style="font-size:20px"><I>gender:</I></span>content</div>
+                           <hr class="my-0 mb-1 w-100" style="border-width:1px; border-color:#7e543a">
+                           <div style="font-size:18px"><span class="font-weight-bold mx-1" style="font-size:20px"><I>orient.:</I></span>content</div>
+                       </div>
+                       <!----main content---->
+                       <div class="col-lg-6 p-1 mr-1">
+                           <div class="p-1" style="overflow:auto; max-height:450px; scrollbar-width:none">
+                               <!----about---->
+
+                                <div class="mx-1 mb-2 p-1 mt-2 card" style="background-color:#dbd8d5; border-style:dashed; border-color:#f2f1f0; border-width:2px">
+                                    <div class="p-2 card border-0" style="background-color:#f2f1f0;">
+                                       <div class="mx-1 text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad</div>
+                                    </div>
+                                </div>
+                                <!----preferences---->
+                                <div class="mx-1 mb-2 p-1 card" style="background-color:#dbd8d5; border-style:dashed; border-color:#f2f1f0; border-width:2px">
+                                    <div class="p-2 card border-0" style="background-color:#f2f1f0;">
+                                       <div><span class="mx-1 font-weight-bold" style="font-size:18px"><i>likes:</i></span>content, content, content, content</div>
+                                       <hr class="my-0 mb-1 w-100" style="border-width:1px; border-color:#7e543a">
+                                       <div><span class="mx-1 font-weight-bold" style="font-size:18px"><i>dislikes:</i></span>content, content, content, content</div>
+                                       
+                                    </div>
+                                </div>
+                                <!----trivia---->
+                                <div class="mx-1 mb-2 p-1 card" style="background-color:#dbd8d5; border-style:dashed; border-color:#f2f1f0; border-width:2px">
+                                    <div class="p-2 card border-0" style="background-color:#f2f1f0;">
+                                        <div><span class="mx-1 font-weight-bold" style="font-size:18px"><i>gemtype:</i></span>content</div>
+                                        <hr class="my-0 mb-1 w-100" style="border-width:1px; border-color:#7e543a">
+                                        <div><span class="mx-1 font-weight-bold" style="font-size:18px"><i>identifier:</i></span>content</div>
+                                        <hr class="my-0 mb-1 w-100" style="border-width:1px; border-color:#7e543a">
+                                        <div><span class="mx-1 font-weight-bold" style="font-size:18px"><i>occupation:</i></span>content</div>
+                                    </div>
+                                </div>
+                                <!----notes---->
+                                <div class="mx-1 mb-3 p-1 card" style="background-color:#dbd8d5; border-style:dashed; border-color:#f2f1f0; border-width:2px">
+                                    <div class="p-2 card border-0" style="background-color:#f2f1f0;">
+                                        <p>❝quote❞</p>
+                                    </div>
+                                </div>
+                           </div>
+                       </div>
+                       <!----moodboard---->
+                       <div class="col-lg-2 p-0 m-auto">
+                           <div class="row no-gutters">
+                             <!----image 1---->
+                           <div class="col-4 col-md-4 col-lg-12 p-0 card rounded-0 mx-auto" style="background:url(https://file.toyhou.se/images/7745356_UbxFaTbtSE8Egg6.png); background-position:center; background-size:cover; height:120px; max-width:120px; background-color:#7e543a; border-width:7px 7px 20px 7px; border-color:#f2f1f0; transform:rotate(-5deg)"></div>
+                           <!----image 2---->
+                           <div class="col-4 col-md-4 col-lg-12 p-0 card rounded-0 mx-auto" style="background:url(https://file.toyhou.se/images/7745356_UbxFaTbtSE8Egg6.png); background-position:center; background-size:cover; height:120px; max-width:120px; background-color:#7e543a; border-width:7px 7px 20px 7px; border-color:#f2f1f0; transform:rotate(4deg)"></div>
+                           <!----image 3---->
+                           <div class="col-4 col-md-4 p-0 col-lg-12 card rounded-0 mx-auto" style="background:url(https://file.toyhou.se/images/7745356_UbxFaTbtSE8Egg6.png); background-position:center; background-size:cover; height:120px; max-width:120px; background-color:#7e543a; border-width:7px 7px 20px 7px; border-color:#f2f1f0; transform:rotate(-5deg)"></div>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+            </div>
+        </div>
+    </div>
+</div>
