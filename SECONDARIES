@@ -40,7 +40,7 @@ card background: #dbd8d5
                            <hr class="my-0 mb-1 w-100" style="border-width:1px; border-color:#7e543a">
                            <div style="font-size:18px"><span class="font-weight-bold mx-1" style="font-size:20px"><I>gender:</I></span>content</div>
                            <hr class="my-0 mb-1 w-100" style="border-width:1px; border-color:#7e543a">
-                           <div style="font-size:18px"><span class="font-weight-bold mx-1" style="font-size:20px"><I>prns:</I></span>content</div>
+                           <div style="font-size:18px"><span class="font-weight-bold mx-1" style="font-size:20px"><I>pronouns:</I></span>content</div>
                            <hr class="my-0 mb-1 w-100" style="border-width:1px; border-color:#7e543a">
                            <div style="font-size:18px"><span class="font-weight-bold mx-1" style="font-size:20px"><I>orient.:</I></span>content</div>
                        </div>
